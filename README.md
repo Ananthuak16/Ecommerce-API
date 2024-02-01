@@ -148,11 +148,17 @@ Before you begin, ensure you have the following installed:
   
   ```
 
-## Extra Points
+## Video Demo
 
-- The code is well-commented for better understanding.
-- A scalable folder structure is implemented with separate directories for models, controllers, and routes.
+Please watch the project demonstration video [here](<https://drive.google.com/file/d/1WiDYkrxMxavsy6DbUsIXhGoJcF-QfnTl/view?usp=sharing>).
 
-Feel free to explore and integrate these API endpoints using Postman or any other API testing tool. If you have any questions or issues, please refer to the documentation or reach out to the project maintainers.
+## Github Repository
 
-Happy coding! 🚀
+Explore the code on [GitHub](<https://github.com/Ananthuak16/Ecommerce-API>).
+
+## Hosted Application
+
+Explore the Web app  on [GitHub](<https://ecommerce-api-8pwg.onrender.com/>).
+
+
+
